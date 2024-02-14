@@ -2,7 +2,7 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/88793592?v=4"/>
 </div>
 
-<div align="center">
+<div align="center" target="_blank" rel="external">
 <a>
   
   [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://alaorpereira.dev.br/)](https://www.alaorpereira.dev.br)
