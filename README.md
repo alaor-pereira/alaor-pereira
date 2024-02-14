@@ -26,7 +26,7 @@ _____
 
 Tenho 26 anos, atualmente morando no Brasil; <br><br>
 Sou um indivíduo apaixonado por desafios e determinado a conquistar novos horizontes; <br><br>
-Minha jornada começou nas fileiras militares, onde aprendi valores como disciplina, hierarquia, trabalho em equipe e resiliência. Após 8 anos de serviço dedicado à pátria, canalizei minha paixão por superar obstáculos em direção a um novo campo: a tecnologia. Fascinado pelas possibilidades inovadoras que esse mundo oferece, mergulhei de cabeça nos estudos, adquirindo habilidades em programação. <br><br>
+Minha jornada começou nas fileiras militares, onde aprendi valores como disciplina, hierarquia, trabalho em equipe e resiliência. Após 8 anos de serviço dedicado à pátria, canalizei minha paixão por superar obstáculos em direção a um novo campo: a tecnologia. Fascinado pelas possibilidades inovadoras que esse mundo oferece, mergulhei de cabeça nos estudos, adquirindo habilidades em programação; <br><br>
 Hoje, estou comprometido em contribuir para avanços tecnológicos que impactam positivamente a sociedade. Seja na linha de frente ou na vanguarda da tecnologia, minha missão é clara: continuar evoluindo, adaptando-me e contribuindo para um futuro mais conectado e seguro.
 Estou animado para esta nova fase da minha jornada e ansioso para superar cada novo desafio que a tecnologia possa apresentar. <br><br>
 Vamos avançar juntos! \o/
