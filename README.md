@@ -3,11 +3,11 @@
 </div>
 
 <div align="center" target="_blank" rel="external">
-<a>
-  [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://alaorpereira.dev.br/)](https://www.alaorpereira.dev.br)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaor-pereira/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alaorcris/)
-</a>
+  <a>
+    [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://alaorpereira.dev.br/)](https://www.alaorpereira.dev.br)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaor-pereira/)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alaorcris/)
+  </a>
 </div>
 
 <div align="center">
