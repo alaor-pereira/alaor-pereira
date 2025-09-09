@@ -8,12 +8,14 @@
 
 ### 👨‍💻 Detalhes sobre mim:
 
-Tenho 26 anos, atualmente morando no Brasil; <br>
-Sou um indivíduo apaixonado por desafios e determinado a conquistar novos horizontes; <br><br>
-Minha jornada começou nas fileiras militares, onde aprendi valores como disciplina, hierarquia, trabalho em equipe e resiliência. Após 8 anos de serviço dedicado à pátria, canalizei minha paixão por superar obstáculos em direção a um novo campo: a tecnologia. Fascinado pelas possibilidades inovadoras que esse mundo oferece, mergulhei de cabeça nos estudos, adquirindo habilidades em programação; <br><br>
-Hoje, estou comprometido em contribuir para avanços tecnológicos que impactam positivamente a sociedade. Seja na linha de frente ou na vanguarda da tecnologia, minha missão é clara: continuar evoluindo, adaptando-me e contribuindo para um futuro mais conectado e seguro.
-Estou animado para esta nova fase da minha jornada e ansioso para superar cada novo desafio que a tecnologia possa apresentar. <br><br>
-Vamos avançar juntos! \o/
+Meu nome é Alaor e sou Desenvolvedor Front-End com foco na linguagem JavaScript, atuando no desenvolvimento de interfaces funcionais, responsivas e centradas na experiência do usuário. Tenho conhecimentos em HTML, CSS, JavaScript e frameworks modernos, com atenção em boas práticas de programação, versionamento e usabilidade.<br>
+
+Sou comprometido em entregar soluções claras e eficientes, tenho facilidade em aprender novas tecnologias e trabalhar em equipe. Busco oportunidades para contribuir em projetos desafiadores, aplicar minhas habilidades técnicas e evoluir continuamente na área de desenvolvimento.
+Estou cursando Bacharelado em Gestão da Tecnologia da Informação, na UNINTER Educacional S/A, buscando aprimorar meu conhecimento e aplicar habilidades adquiridas.<br>
+
+Seja na linha de frente ou na vanguarda da tecnologia, minha missão é clara: continuar evoluindo, adaptando-me e contribuindo para um futuro mais conectado e seguro.<br>
+
+Vamos avançar juntos!
 <br>
 <br>
 
