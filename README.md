@@ -8,12 +8,10 @@
 
 ### 👨‍💻 Detalhes sobre mim:
 
-Meu nome é Alaor e sou Desenvolvedor Front-End com foco na linguagem JavaScript, atuando no desenvolvimento de interfaces funcionais, responsivas e centradas na experiência do usuário. Tenho conhecimentos em HTML, CSS, JavaScript e frameworks modernos, com atenção em boas práticas de programação, versionamento e usabilidade.<br>
+Full Stack Developer, atuando no desenvolvimento de plataformas funcionais, responsivas e também centradas na experiência do usuário. Tenho conhecimentos em JavaScript/TypeScript, React, SQL e Express, olhando com atenção em boas práticas de programação, versionamento e usabilidade.<br>
 
-Sou comprometido em entregar soluções claras e eficientes, tenho facilidade em aprender novas tecnologias e trabalhar em equipe. Busco oportunidades para contribuir em projetos desafiadores, aplicar minhas habilidades técnicas e evoluir continuamente na área de desenvolvimento.
+Sou comprometido em entregar soluções eficientes, tenho facilidade em aprender novas tecnologias e trabalhar em equipe. Busco sempre contribuir em projetos desafiadores, aplicando minhas habilidades técnicas e evoluindo continuamente na área de desenvolvimento.
 Estou cursando Bacharelado em Gestão da Tecnologia da Informação, na UNINTER Educacional S/A, buscando aprimorar meu conhecimento e aplicar habilidades adquiridas.<br>
-
-Seja na linha de frente ou na vanguarda da tecnologia, minha missão é clara: continuar evoluindo, adaptando-me e contribuindo para um futuro mais conectado e seguro.<br>
 
 Vamos avançar juntos!
 <br>
